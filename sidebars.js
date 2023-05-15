@@ -151,6 +151,11 @@ const sidebars = {
               label:
                 "GitHub opened pull request event triggers a Slack message",
             },
+            {
+              type: "doc",
+              id: "user-guides/template-guides/aws-billing-to-google-sheets",
+              label: "Send AWS Billing to Google Sheets",
+            },
           ],
         },
         {
